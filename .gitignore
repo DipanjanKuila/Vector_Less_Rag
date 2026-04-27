@@ -1,0 +1,33 @@
+# Environment
+.env
+app/.env
+
+# Python virtual environment
+.venv
+venv
+env
+
+# Uploads directory
+app/uploads/
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Node
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+*.png
